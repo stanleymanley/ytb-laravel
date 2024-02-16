@@ -2,7 +2,7 @@
 <div class="container-xxl testimonial my-5 py-5 bg-dark wow zoomIn" data-wow-delay="0.1s">
     <div class="container">
         <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-            <h6 class="section-title text-center text-light text-uppercase">Badan Pengawas Keuangan Daerah</h6>
+            {{-- <h6 class="section-title text-center text-light text-uppercase">Badan Pengawas Keuangan Daerah</h6> --}}
             <h4 class="mb-2"><span class="text-primary text-uppercase">Berita Trending</span></h4>
         </div>
         <div class="owl-carousel testimonial-carousel py-5">

@@ -4,7 +4,7 @@
         <div class="col-lg-3 bg-dark d-none d-lg-block">
             <a href="{{url('/')}}"
                 class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                <img src="{{ asset('/img/bpkp.jpeg') }}" alt="Logo Kamu" width="250" height="100" />
+                <img src="{{ asset('/img/blud.png') }}" alt="Logo Kamu" width="250" height="100" />
             </a>
         </div>
         <div class="col-lg-9">
@@ -12,7 +12,7 @@
                 <div class="col-lg-7 px-5 text-start">
                     <div class="h-100 d-inline-flex align-items-center py-2 me-4">
                         <i class="fa fa-envelope text-primary me-2"></i>
-                        <p class="mb-0">bpkp@gmail.com</p>
+                        <p class="mb-0">test@gmail.com</p>
                     </div>
                     <div class="h-100 d-inline-flex align-items-center py-2">
                         <i class="fa fa-phone-alt text-primary me-2"></i>
